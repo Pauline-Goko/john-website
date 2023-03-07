@@ -1,0 +1,162 @@
+.nav1 ul li{
+    list-style-type: none;
+display: inline-block;
+padding: 5px;
+margin-left: 90px;
+
+
+
+}
+.main{
+    
+background-color: rgb(235, 238, 243);
+
+
+}
+
+#shop{
+    position: absolute;
+    top: 100px;
+    left: 300px;
+    background-color: aqua;
+}
+#search{
+    width: 20%;
+    border-radius: 5px;
+    height: 20px;
+    margin-left: 80px;
+}
+#trendy{
+    color: rgb(253, 12, 12);
+  
+}
+#by{
+    color: rgb(223, 17, 205);
+}
+#day{
+    color: rgb(233, 23, 23);
+}
+
+#dress1{
+    width: 200px;
+    
+    
+}
+.dress1{
+    border-style: hidden;
+    
+}
+#dress2{
+    width: 200px;
+}
+
+.dress2{
+    border-style: hidden;
+    ;
+}
+#dress3{
+    width: 200px;
+}
+.dress3{
+    border-style: hidden;
+}
+#dress4{
+    width: 200px;
+    
+}
+.dress4{
+    border-style: hidden;
+
+}
+.bigdiv1{
+    display: flex;
+    padding: 25px;
+    
+}
+
+.kid1{
+border-style: hidden;
+width: 200px;
+}
+#kid1{
+    width: 200px;
+}
+.kid2{
+    border-style: hidden;
+    width: 200px;
+}
+#kid2{
+    width: 200px;
+}
+.kid3{
+    border-style: hidden;
+    width: 200px;
+    
+    
+}
+#kid3{
+    width: 200px;
+}
+.kid4{
+    border-style: hidden;
+    width: 200px;
+    
+}
+#kid4{
+    width: 200px;
+}
+.bigdiv3{
+display: flex;
+    
+    
+
+}
+
+.man1{
+    border-style: hidden;
+    width: 200px;
+}
+
+
+#man1{
+    width: 200px;
+    height: 250px;
+}
+.man2{
+    
+    border-style: hidden;
+ width: 200px;
+}
+#man2{
+    width: 200px;
+    height: 250px;
+}
+.man3{
+    border-style: hidden;
+    width: 200px;
+}
+#man3{
+    width: 200px;
+    height: 250px;
+}
+.man4{
+    border-style: hidden;
+    width: 200px;
+}
+#man4{
+    width: 200px;
+    height: 250px;
+}
+.bigdiv5{
+    display: flex;
+}
+.lastdiv ul li{
+    list-style-type: none;
+    padding: 10px;
+    
+}
+.lastdiv{
+    display: flex;
+    justify-content: center;
+    background-color: brown;
+}
